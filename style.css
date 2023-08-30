@@ -1,3 +1,26 @@
-/* #vid{
+#vid{
+   position: absolute;
+   height: 100vh;
+   top: 0px;
+   left: 0px;
+}
 
-} */
+#name{
+    position: fixed;
+    display: block;
+    left: 550px;
+    top: 300px;
+    opacity: 80%;
+    color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.buttons{ 
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    justify-content: space-between;
+    position: relative;
+    word-spacing: 40px;
+    padding: 8px 90px 10px 700px;
+}
