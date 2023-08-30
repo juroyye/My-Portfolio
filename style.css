@@ -10,7 +10,7 @@
 }
 
 #name{
-    position: fixed;
+    position: absolute;
     display: block;
     left: 575px;
     top: 280px;
@@ -52,3 +52,11 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.logos{
+    bottom: 10px;
+    position: absolute;
+    border: none;
+    top: 500px;
+    position: absolute;
+    word-spacing: 20px;
+}
