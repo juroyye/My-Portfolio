@@ -28,17 +28,16 @@
     padding: 8px 90px 10px 700px;
 }
 
-#btn1, #btn2, #btn3, #btn4, #btn5{
+#btn1, #btn2, #btn3{
     border: none;
     background-color: transparent;
     color: antiquewhite;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover, #btn5:hover{
-    transition: all 0.1s ease-in-out;
-    text-shadow: 0 5px 15px rgb(255, 255, 255);
+#btn1:hover, #btn2:hover, #btn3:hover{
+    transition: all 0.2s ease-in-out;
+    text-shadow: 2px 2px 8px  rgb(255, 255, 255);
     outline: none;
     border: none;
 }
@@ -52,3 +51,4 @@
     color: antiquewhite;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
